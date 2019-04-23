@@ -18,7 +18,7 @@ h1, h2{
 	text-align: center;
 	font-family: sugar;
 }
-p{
+p {
 	text-align: center;
 }
 
@@ -30,6 +30,12 @@ p{
 	font-size: 28px;
     background: #e50063;
     color: white;
+}
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
 }
 
 /* Style the top navigation bar */
