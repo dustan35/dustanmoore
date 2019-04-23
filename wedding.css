@@ -14,7 +14,7 @@ body {
     font-family: sugar;
     src: local(sugar), url('sugar.ttf') format('opentype');
 }
-h1, h2{
+h1, h2, p{
 	text-align: center;
 	font-family: sugar;
 }
